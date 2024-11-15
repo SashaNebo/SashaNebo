@@ -2,8 +2,6 @@
 
 ## I am a novice frontend developer
 
-Latest Youtube video
-
 ### Languages and Tools 🔬🚀🔧
 
 ![HTML5](https://img.shields.io/badge/HTML-000002?style=for-the-badge&logo=HTML5)
@@ -29,3 +27,8 @@ Latest Youtube video
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-000002?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/)
 [![Discord](https://img.shields.io/badge/Discord-000002?style=for-the-badge&logo=Discord&logoColor=5869EB)](https://discordapp.com/users/776724771848585217/)
 [![Gmail](https://img.shields.io/badge/Gmail-000002?style=for-the-badge&logo=Gmail&logoColor=EA4335)](https://mail.google.com/mail/u/0/?fs=1&to=ilyapribytkov2003we6dev@gmail.com&tf=cm)
+
+### Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaNebo&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashaNebo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
