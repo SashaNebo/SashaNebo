@@ -22,4 +22,10 @@ Latest Youtube video
 ![Figma](https://img.shields.io/badge/Figma-000002?style=for-the-badge&logo=Figma)
 ![VSCode](https://img.shields.io/badge/VSCode-000002?style=for-the-badge&logo=VSCode)
 
-Follow me
+### Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-000002?style=for-the-badge&logo=Telegram)](https://t.me/ilya_pribytkov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000002?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-000002?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/)
+[![Discord](https://img.shields.io/badge/Discord-000002?style=for-the-badge&logo=Discord&logoColor=5869EB)](https://discordapp.com/users/776724771848585217/)
+[![Gmail](https://img.shields.io/badge/Gmail-000002?style=for-the-badge&logo=Gmail&logoColor=EA4335)](https://mail.google.com/mail/u/0/?fs=1&to=ilyapribytkov2003we6dev@gmail.com&tf=cm)
