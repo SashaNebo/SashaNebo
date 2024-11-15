@@ -1,8 +1,12 @@
 [![Header](https://github.com/SashaNebo/SashaNebo/blob/main/assets/banner.webp)](https://nevinnomyssk.hh.ru/applicant/resumes/view?resume=5ce33da2ff0715c9dd0039ed1f4470626e3362)
 
-## I am a novice frontend developer
+## About me
 
-### Languages and Tools 🔬🚀🔧
+Hi. My name is Ilya, I am 21 years old, I come from Russia, Nevinnomyssk.
+
+I have been familiar with programming for over 3 years. The main direction is frontend development. I like to make a beautiful design and user-friendly interface. I would also like to master the backend recently.
+
+## Languages and Tools 🔬🚀🔧
 
 ![HTML5](https://img.shields.io/badge/HTML-000002?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-000002?style=for-the-badge&logo=CSS3&logoColor=214CE5)
@@ -20,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/Figma-000002?style=for-the-badge&logo=Figma)
 ![VSCode](https://img.shields.io/badge/VSCode-000002?style=for-the-badge&logo=VSCode)
 
-### Contact me
+## Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000002?style=for-the-badge&logo=Telegram)](https://t.me/ilya_pribytkov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000002?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/)
