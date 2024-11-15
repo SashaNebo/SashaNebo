@@ -34,5 +34,5 @@ I have been familiar with programming for over 3 years. The main direction is fr
 
 ### Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaNebo&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) ㅤ ㅤ
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaNebo&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) ㅤ
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashaNebo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
